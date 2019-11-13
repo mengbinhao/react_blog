@@ -1,6 +1,6 @@
 import React from "react";
 import Head from "next/head";
-import { Button } from "antd";
+import Header from "../components/header";
 
 const Home = () => (
   <div>
@@ -8,7 +8,7 @@ const Home = () => (
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    <Button>buttom</Button>
+    <Header />
   </div>
 );
 

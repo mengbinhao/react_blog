@@ -37,3 +37,17 @@ export default App
 
 # index.js加入一个按钮，看看是否可以正常使用
 ```
+
+### implement header
+#### anrd 24 grid
+> xs: <576px响应式栅格
+>
+> sm：≥576px响应式栅格
+>
+> md: ≥768px响应式栅格
+>
+> lg: ≥992px响应式栅格
+>
+> xl: ≥1200px响应式栅格
+>
+> xxl: ≥1600px响应式栅格
