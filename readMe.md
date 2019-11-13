@@ -40,14 +40,12 @@ export default App
 
 ### implement header
 #### anrd 24 grid
-> xs: <576px响应式栅格
->
-> sm：≥576px响应式栅格
->
-> md: ≥768px响应式栅格
->
-> lg: ≥992px响应式栅格
->
-> xl: ≥1200px响应式栅格
->
-> xxl: ≥1600px响应式栅格
+```bash
+# xs: <576px响应式栅格
+# sm：≥576px响应式栅格
+# md: ≥768px响应式栅格
+# lg: ≥992px响应式栅格
+# xl: ≥1200px响应式栅格
+# xxl: ≥1600px响应式栅格
+import { Row, Col, Menu, Icon } from 'antd'
+```
